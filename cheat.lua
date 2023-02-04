@@ -155,7 +155,7 @@ local window_player = library.window("player")
 local window_esp = library.window("esp")
 local window_misc = library.window("misc")
 
-window_player.toggle("Cheat By X3LAY.",false,function(val)
+window_info.toggle("Cheat By X3LAY.",false,function(val)
 
 window_player.toggle("client glow",false,function(val)
     flags.light = val
