@@ -75,9 +75,9 @@ end
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local Window = Rayfield:CreateWindow({
-	Name = "Doors Entity Replicator | " .. (identifyexecutor and identifyexecutor() or syn and "Synapse X" or "Unknown"),
-	LoadingTitle = "Loading Doors Entity Spawner",
-	LoadingSubtitle = "Made by Zepsyy and Spongus",
+	Name = "Cheat on Doors By X3lay | " .. (identifyexecutor and identifyexecutor() or syn and "Synapse X" or "Unknown"),
+	LoadingTitle = "Loading Doors Cheat By X3LAY",
+	LoadingSubtitle = "Made by x3lay - @coderingonelove in tg.",
 	ConfigurationSaving = {
 		Enabled = true,
 		FolderName = nil, -- Create a custom folder for your hub/game
